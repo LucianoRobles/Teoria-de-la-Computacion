@@ -10,6 +10,8 @@
 
 ## 1. Máquina de Turing para un Lenguaje Regular
 
+Archivo: [`MT_LR.jff`](MT_LR.jff)
+
 ### Lenguaje
 
 Sea:
@@ -169,6 +171,8 @@ La palabra se acepta únicamente si se alcanza el final de la cinta estando en `
 ---
 
 ## 2. Máquina de Turing para un Lenguaje Independiente del Contexto
+
+Archivo: [`MT_LIC.jff`](MT_LIC.jff)
 
 ### Lenguaje
 

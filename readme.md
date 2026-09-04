@@ -49,7 +49,7 @@ Cada entrega lleva su número. Si es un archivo suelto (una planilla, un link),
 va el link directo; si es un conjunto de archivos, se vera el link a la carpeta de este repo.
 
 1. [Cientificos](https://docs.google.com/spreadsheets/d/19Bz7HpqyY465uTSSMZl_xUvJH9eviDKqdAx2mwPVTQA/edit?gid=0#gid=0)
-   : La primera entrega de la materia. Se resuelve directamente sobre la planilla.
+   : La primera entrega de la materia. Se resuelve directamente sobre la planill.
 
 2. **Máquina de Turing** — [`Ejercitacion 2/`](Ejercitacion%202/)
    Máquina de Turing calculadora que duplica la cantidad de unos.

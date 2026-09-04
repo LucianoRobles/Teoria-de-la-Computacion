@@ -51,8 +51,12 @@ va el link directo; si es un conjunto de archivos, se vera el link a la carpeta 
 1. [Cientificos](https://docs.google.com/spreadsheets/d/19Bz7HpqyY465uTSSMZl_xUvJH9eviDKqdAx2mwPVTQA/edit?gid=0#gid=0)
    : La primera entrega de la materia. Se resuelve directamente sobre la planilla.
 
-2. **Máquina de Turing** - [`tp-02-mtr/`](tp-02-mtr/)
-   Resoluciones y archivos del práctico de Máquina de Turing.
+2. **Máquina de Turing** — [`Ejercitacion 2/`](Ejercitacion%202/)
+   Máquina de Turing calculadora que duplica la cantidad de unos.
+
+3. **Máquina de Turing** — [`Ejercitacion 3/`](Ejercitacion%203/)
+   Máquinas de Turing para un lenguaje regular y uno independiente del contexto,
+   más el comparativo entre MTaccept y MTcalc.
 
 ## Bibliografía
 

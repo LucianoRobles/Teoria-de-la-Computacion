@@ -35,11 +35,11 @@ parciales.
 | 02 | Máquina de Turing | [MTr](https://github.com/ppandomail/lf/blob/main/doc/mt.ipynb) |
 | 02 | Máquina de Turing de cinta múltiple | [MTc](https://github.com/ppandomail/tc/blob/master/doc/mtc.ipynb) |
 | 02 | Máquina de Turing Universal | [MTU](https://github.com/ppandomail/tc/blob/master/doc/mtu.ipynb) |
-| 02 | Problemas de computabilidad | [Prob](https://github.com/ppandomail/tc/blob/master/doc/prob.ipynb) |
+| 02 | Problemas y lenguajes | [Prob](https://github.com/ppandomail/tc/blob/master/doc/prob.ipynb) |
 | 02 | Máquina secuencial | [Mseq](https://github.com/ppandomail/tc/blob/master/doc/mseq.ipynb) |
-| 02 | Programas en notación | [PN](https://github.com/ppandomail/tc/blob/master/doc/pn.ipynb) |
-| 02 | Máquinas de Post | [MP](https://github.com/ppandomail/tc/blob/master/doc/mp.ipynb) |
-| 02 | Autómata de pila | [AFP](https://github.com/ppandomail/tc/blob/master/doc/afp.ipynb) |
+| 02 | Redes de Petri | [PN](https://github.com/ppandomail/tc/blob/master/doc/pn.ipynb) |
+| 02 | Autómatas de Células de McCulloch-Pitts | [MP](https://github.com/ppandomail/tc/blob/master/doc/mp.ipynb) |
+| 02 | Autómatas Finitos Probabilísticos | [AFP](https://github.com/ppandomail/tc/blob/master/doc/afp.ipynb) |
 | 03 | Complejidad computacional | [Complejidad](https://github.com/ppandomail/tc/blob/master/doc/comple.ipynb) |
 | 04 | Computación cuántica | [Cuántica](https://github.com/ppandomail/tc/blob/master/doc/cuanti.ipynb) |
 

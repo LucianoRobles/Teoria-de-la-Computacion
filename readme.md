@@ -79,4 +79,3 @@ va el link directo; si es un conjunto de archivos, se verá el link a la carpeta
 
 ---
 
-_Repositorio de uso académico. Las resoluciones son propias y pueden contener errores._

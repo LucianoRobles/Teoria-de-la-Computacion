@@ -46,7 +46,7 @@ parciales.
 ## Ejercitación
 
 Cada entrega lleva su número. Si es un archivo suelto (una planilla, un link),
-va el link directo; si es un conjunto de archivos, se vera el link a la carpeta de este repo.
+va el link directo; si es un conjunto de archivos, se verá el link a la carpeta de este repo.
 
 1. [Cientificos](https://docs.google.com/spreadsheets/d/19Bz7HpqyY465uTSSMZl_xUvJH9eviDKqdAx2mwPVTQA/edit?gid=0#gid=0)
    : La primera entrega de la materia. Se resuelve directamente sobre la planilla.
@@ -57,6 +57,14 @@ va el link directo; si es un conjunto de archivos, se vera el link a la carpeta 
 3. **Máquina de Turing** — [`Ejercitacion 3/`](Ejercitacion%203/)
    Máquinas de Turing para un lenguaje regular y uno independiente del contexto,
    más el comparativo entre MTaccept y MTcalc.
+
+4. **Máquina de Turing calculable** — [`Ejercitacion 4/`](Ejercitacion%204/) · [Notebook](Ejercitacion%204/mtc.ipynb)
+   Máquinas para invertir y duplicar cadenas sobre `{a, b}`, y cambiar las primeras
+   `m` letras `A` por `B`. Incluye diagramas y archivos de JFLAP.
+
+5. **Máquina de Turing Universal** — [`Ejercitacion 5/`](Ejercitacion%205/) · [Notebook](Ejercitacion%205/mtu.ipynb)
+   Simulación de máquinas codificadas, aceptación de cadenas y codificación de
+   configuraciones de cinta.
 
 ## Bibliografía
 
